@@ -2,7 +2,7 @@
 
 const linkedIn = document.querySelector('#linked-in')
 const gitHub = document.querySelector('#git-hub')
-
+document.getElementById('myvideo').play()
 
 function goToGithub(){
     window.open('https://github.com/justin-owen')
