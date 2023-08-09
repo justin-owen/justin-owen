@@ -106,8 +106,9 @@ img:hover{
     box-shadow: 2px 2px 5px black;
 }
 video{
-    height: 300px;
+    height: 270px;
     width: 600px;
+    object-fit: cover;
 }
 .description{
     width: 600px;
